@@ -19,7 +19,7 @@
 
 ## Google Colab Demo
 
-HW1 :  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/ai_doc/blob/main/20240907-%E5%BE%AE%E5%85%89%E6%97%A9%E9%A4%90%E6%9C%83-%E6%99%BA%E6%85%A7%E5%85%AC%E6%96%87%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B%E5%88%86%E4%BA%AB.ipynb)
+HW1 :  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/113_NKUST_Advanced_Econometrics/blob/main/homework1/HW1.ipynb)
 
 ## 在本地端運行
 
