@@ -36,6 +36,8 @@ print("Variance of RR:", var_RR)
 print("==================================================================")
 print()
 print()
+
+
 # (2) Compute the probability that RR > 0 assuming normal distribution
 prob = 1 - norm.cdf(0, loc=mean_RR, scale=np.sqrt(var_RR))
 print("2.2  Compute the probability that RR > 0 assuming normal distribution")
