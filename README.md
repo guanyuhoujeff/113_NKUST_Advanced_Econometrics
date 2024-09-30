@@ -22,6 +22,10 @@
 HW1 : 
 [檔案連結](https://github.com/guanyuhoujeff/113_NKUST_Advanced_Econometrics/tree/main/homework1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/113_NKUST_Advanced_Econometrics/blob/main/homework1/HW1.ipynb)
 
+HW2 : 
+[檔案連結](https://github.com/guanyuhoujeff/113_NKUST_Advanced_Econometrics/tree/main/homework2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/113_NKUST_Advanced_Econometrics/blob/main/homework2/HW2.ipynb)
+
+
 ## 在本地端運行
 
 若想在本地端執行本系統，請依照以下步驟：
