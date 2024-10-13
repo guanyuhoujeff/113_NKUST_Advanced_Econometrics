@@ -25,6 +25,8 @@ HW1 :
 HW2 : 
 [檔案連結](https://github.com/guanyuhoujeff/113_NKUST_Advanced_Econometrics/tree/main/homework2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/113_NKUST_Advanced_Econometrics/blob/main/homework2/HW2.ipynb)
 
+HW3 : 
+[檔案連結](https://github.com/guanyuhoujeff/113_NKUST_Advanced_Econometrics/tree/main/homework3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/113_NKUST_Advanced_Econometrics/blob/main/homework3/HW3.ipynb)
 
 ## 在本地端運行
 
