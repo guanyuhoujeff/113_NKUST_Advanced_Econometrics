@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# !pip install scipy yfinance numpy
+# !pip install scipy yfinance numpy matplotlib
 
 
 import yfinance as yf
