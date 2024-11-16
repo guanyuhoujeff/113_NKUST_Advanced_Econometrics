@@ -35,6 +35,10 @@ HW5 :
 [檔案連結](https://github.com/guanyuhoujeff/113_NKUST_Advanced_Econometrics/tree/main/homework5) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/113_NKUST_Advanced_Econometrics/blob/main/homework5/HW5.ipynb)
 
 
+HW6 : 
+[檔案連結](https://github.com/guanyuhoujeff/113_NKUST_Advanced_Econometrics/tree/main/homework6) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/113_NKUST_Advanced_Econometrics/blob/main/homework6/HW6.ipynb)
+
+
 ## 在本地端運行
 
 若想在本地端執行本系統，請依照以下步驟：
